@@ -60,13 +60,13 @@
         "*.asset": "yaml",
         "*.meta": "yaml",
         "*.prefab": "yaml",
-        "*.unity": "yaml",
+        "*.unity": "yaml"
     },
     "explorer.fileNesting.enabled": true,
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "204_7_krittidech_Week12.slnx",
+    "dotnet.defaultSolution": "2D-Physics-Component_Week12.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
